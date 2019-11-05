@@ -1,3 +1,5 @@
+// Some of this code is borrowed from victorman's Arduino Metronome: https://github.com/victorman/ArduinoMetronome
+
 #include "Metronome.h"
 
 #include <Arduboy2.h>
