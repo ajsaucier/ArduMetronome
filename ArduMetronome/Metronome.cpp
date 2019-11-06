@@ -130,7 +130,7 @@ void Metronome::render()
   arduboy.print(F("ArduMetronome"));
   
   // Show beats per minute
-  arduboy.setCursor(0, halfScreenHeight - 10);
+  arduboy.setCursor(8, halfScreenHeight - 10);
   arduboy.setTextSize(3);
   arduboy.print(BPM);
   arduboy.setTextSize(1);
