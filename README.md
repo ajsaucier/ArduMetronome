@@ -1,6 +1,8 @@
 # ArduMetronome
 Entry for Arduboy Game Jame 4 - a simple metronome
 
+![Screenshot of ArduMetronome](ArduMetronome-screenshot.png)
+
 ## Instructions
 Use the up/down buttons to increase/decrease beats per minute (BPM) from 35 to 250 by increments of one. 
 
