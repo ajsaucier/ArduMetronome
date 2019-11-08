@@ -118,6 +118,7 @@ void Metronome::update()
   }
 
   sound.tone(play_note, 50);
+  arduboy.setRGBled(GREEN_LED, 35);
   
   last = millis();
   beat++;
